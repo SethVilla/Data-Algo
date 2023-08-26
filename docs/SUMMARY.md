@@ -22,3 +22,4 @@
 ## Methods
 
 * [performance](methods/performance.md)
+* [Loops](methods/loops.md)

@@ -2,11 +2,11 @@
 
 ### Heap
 
-Store variables
+Store variables that are assigned values
 
 ### Stack
 
-Store function calls
+Track function calls
 
 ```javascript
 //#5 Space complexity O(1)
@@ -27,3 +27,6 @@ function arrayOfHiNTimes(n) {
 
 arrayOfHiNTimes(6)
 ```
+
+### Space Complexity
+
