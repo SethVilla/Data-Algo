@@ -23,3 +23,7 @@
 
 * [performance](methods/performance.md)
 * [Loops](methods/loops.md)
+
+## Interviews
+
+* [Google](interviews/google.md)
