@@ -2,7 +2,8 @@ package homework.moduleone.files;
 
 public class Store {
 	
-	private String name, location;
+	private String name;
+	private String location;
 
 	public Store(String name, String location) {
 		this.name = name;
@@ -32,8 +33,7 @@ public class Store {
 	
 	@Override
 	public boolean equals(Object obj) {
-		if(obj instanceof Store) {
-			Store other = (Store) obj;
+		if(obj instanceof Store other) {
 			return this.name.equalsIgnoreCase(other.name) &&
 					this.location.equalsIgnoreCase(other.location);
 		} else {

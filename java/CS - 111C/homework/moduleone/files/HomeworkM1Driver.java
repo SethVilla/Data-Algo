@@ -5,9 +5,8 @@ import java.util.*;
 public class HomeworkM1Driver {
 
 	private static boolean allTestsPassed = true;
-	
+
 	public static void main(String[] args) {
-		
 		// Store objects to use in testing
 		Store groceryStore1 = new Store("Foods R Us", "Smallerville");
 		Store groceryStore2 = new Store("Foods R Us", "Union City");
@@ -104,7 +103,7 @@ public class HomeworkM1Driver {
 		// parameter 1: the email to test
 		// parameter 2: the expected result (true if the email is valid, false otherwise)
 		// parameter 3: a description of the test
-		/*
+
 		String validEmailDescription = "at least one letter somewhere before the @ and exactly three characters after the last period";
 		testEmailValidator("sir.reads.a.lot@books.com", 	true, validEmailDescription);
 		testEmailValidator("mark.darcy@gmail.abc", 			true, validEmailDescription);
@@ -113,7 +112,7 @@ public class HomeworkM1Driver {
 		testEmailValidator("ina@hurry.edu", 				true, validEmailDescription);
 		testEmailValidator("morris?@better.org", 			true, validEmailDescription);
 		testEmailValidator("!hello@acb.giv", 				true, validEmailDescription);
-		
+
 		testEmailValidator("@abc.xyz", 						false, "no characters before @");
 		testEmailValidator("abc.com", 						false, "no @");
 		testEmailValidator("j@com", 						false, "no period");
@@ -124,7 +123,7 @@ public class HomeworkM1Driver {
 		testEmailValidator("j.m@gmail.z", 					false, "1 char after period");
 		testEmailValidator("abcdef", 						false, "no @ or period");
 		testEmailValidator("!@abc.def", 					false, "there are no letters before the @");
-		*/
+
 
 		System.out.println("\n\n-----------------------------TESTING COMPLETE-----------------------------");
 		if(allTestsPassed) {
