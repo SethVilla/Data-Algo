@@ -27,3 +27,7 @@
 ## Interviews
 
 * [Google](interviews/google.md)
+
+## Resources
+
+* [Java - Data & Algo](resources/java-data-and-algo.md)
