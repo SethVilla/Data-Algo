@@ -19,3 +19,16 @@ O
 -CS - 111C/module/one/DonorDonationTester.java,9/5/95190747604ac8ffe95a2d7abb8c26f5cc5352da
 X
 (CS - 111C/module/one/FractionTester.java,d/6/d690758fe963b7f5371585349bc0064f81230ce7
+t
+DCS - 111C/homework/moduleone/files/SampleOutput_HomeworkM1Driver.txt,6/5/650a8227cda7d6f06e5889575908a8ab83cb71ff
+_
+/CS - 111C/homework/moduleone/files/Receipt.java,7/a/7a45e334e36356654d173640cb787e947d169843
+]
+-CS - 111C/homework/moduleone/files/Store.java,c/5/c52d465fbbeb78f1d2ea10a13b104c001a38271c
+f
+6CS - 111C/homework/moduleone/files/DigitalReceipt.java,b/6/b60bb12d48683d50a0f95ee20513a049f13eba00
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+h
+8CS - 111C/homework/moduleone/files/HomeworkM1Driver.java,5/9/59ad3357d265c3d9b068450eeaa93b02bff5fdb6
