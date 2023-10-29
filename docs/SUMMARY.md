@@ -31,3 +31,16 @@
 ## Resources
 
 * [Java - Data & Algo](resources/java-data-and-algo.md)
+
+## Algorithims
+
+* [Searching](algorithims/searching/README.md)
+  * [Linear Search](algorithims/searching/linear-search.md)
+  * [Binary Search](algorithims/searching/binary-search.md)
+* [Sorting](algorithims/sorting/README.md)
+  * [Selection Sort](algorithims/sorting/selection-sort.md)
+  * [Insertion Sort](algorithims/sorting/insertion-sort.md)
+  * [Shell Sort](algorithims/sorting/shell-sort.md)
+  * [Merge Sort](algorithims/sorting/merge-sort.md)
+  * [Quick Sort](algorithims/sorting/quick-sort.md)
+  * [Untitled](algorithims/sorting/untitled.md)
