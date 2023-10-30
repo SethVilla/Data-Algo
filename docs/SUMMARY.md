@@ -24,13 +24,11 @@
 * [performance](methods/performance.md)
 * [Loops](methods/loops.md)
 
-## Interviews
+## Data Structures
 
-* [Google](interviews/google.md)
-
-## Resources
-
-* [Java - Data & Algo](resources/java-data-and-algo.md)
+* [Stacks](data-structures/stacks/README.md)
+  * [Balancing Parenthesis](data-structures/stacks/balancing-parenthesis.md)
+  * [Fibonacci Stack](data-structures/stacks/fibonacci-stack.md)
 
 ## Algorithims
 
@@ -44,3 +42,15 @@
   * [Merge Sort](algorithims/sorting/merge-sort.md)
   * [Quick Sort](algorithims/sorting/quick-sort.md)
   * [Untitled](algorithims/sorting/untitled.md)
+
+## Interviews
+
+* [Google](interviews/google.md)
+
+## Notations
+
+* [Binary Operators](notations/binary-operators.md)
+
+## Resources
+
+* [Java - Data & Algo](resources/java-data-and-algo.md)
