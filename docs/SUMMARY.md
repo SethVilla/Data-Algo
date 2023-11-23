@@ -29,6 +29,8 @@
 * [Stacks](data-structures/stacks/README.md)
   * [Balancing Parenthesis](data-structures/stacks/balancing-parenthesis.md)
   * [Fibonacci Stack](data-structures/stacks/fibonacci-stack.md)
+* [Trees](data-structures/trees/README.md)
+  * [Binary Tree](data-structures/trees/binary-tree.md)
 
 ## Algorithims
 
