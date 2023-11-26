@@ -31,7 +31,20 @@
   * [Fibonacci Stack](data-structures/stacks/fibonacci-stack.md)
   * [Balancing Parenthesis](data-structures/stacks/balancing-parenthesis.md)
 * [Trees](data-structures/trees/README.md)
-  * [Binary Tree](data-structures/trees/binary-tree.md)
+  * [Implementation](data-structures/trees/implementation/README.md)
+    * [General Trees](data-structures/trees/implementation/general-trees.md)
+    * [Binary Tree](data-structures/trees/implementation/binary-tree.md)
+    * [Binary Search Tree](data-structures/trees/implementation/binary-search-tree.md)
+    * [Heaps](data-structures/trees/implementation/heaps.md)
+  * [Binary Tree](data-structures/trees/binary-tree/README.md)
+    * [Binary Traversal](data-structures/trees/binary-tree/binary-traversal.md)
+    * [Binary Search Tree](data-structures/trees/binary-tree/binary-search-tree.md)
+  * [Heaps](data-structures/trees/heaps.md)
+  * [Balanced Tree](data-structures/trees/balanced-tree.md)
+  * [Traversals](data-structures/trees/traversals/README.md)
+    * [Finding the Traversal order](data-structures/trees/traversals/finding-the-traversal-order.md)
+    * [Depth - First and Breadth - First Traversals](data-structures/trees/traversals/depth-first-and-breadth-first-traversals.md)
+  * [Nodes](data-structures/trees/nodes.md)
 
 ## Algorithims
 

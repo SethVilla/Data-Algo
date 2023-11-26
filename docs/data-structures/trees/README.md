@@ -14,3 +14,8 @@
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-10 at 11.02.04 PM.png" alt=""><figcaption></figcaption></figure>
 
+### Resources
+
+{% file src="../../.gitbook/assets/Tree_Lecture_One.pdf" %}
+
+{% file src="../../.gitbook/assets/Tree_Lecture_Two.pdf" %}
