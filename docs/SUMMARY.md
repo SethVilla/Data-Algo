@@ -45,6 +45,18 @@
     * [Finding the Traversal order](data-structures/trees/traversals/finding-the-traversal-order.md)
     * [Depth - First and Breadth - First Traversals](data-structures/trees/traversals/depth-first-and-breadth-first-traversals.md)
   * [Nodes](data-structures/trees/nodes.md)
+* [Graphs](data-structures/graphs/README.md)
+  * [Digraph](data-structures/graphs/digraph.md)
+  * [Traversals](data-structures/graphs/traversals/README.md)
+    * [Paths](data-structures/graphs/traversals/paths/README.md)
+      * [Finding Shortest Path](data-structures/graphs/traversals/paths/finding-shortest-path/README.md)
+        * [Shortest Path in Weighted Graph](data-structures/graphs/traversals/paths/finding-shortest-path/shortest-path-in-weighted-graph.md)
+    * [Breadth-First Traversal](data-structures/graphs/traversals/breadth-first-traversal.md)
+    * [Depth First Traversal](data-structures/graphs/traversals/depth-first-traversal.md)
+    * [Topological Ordering / Sort](data-structures/graphs/traversals/topological-ordering-sort.md)
+  * [Implementations](data-structures/graphs/implementations/README.md)
+    * [Adjacency Matrix](data-structures/graphs/implementations/adjacency-matrix.md)
+    * [Adjacent List](data-structures/graphs/implementations/adjacent-list.md)
 
 ## Algorithims
 
