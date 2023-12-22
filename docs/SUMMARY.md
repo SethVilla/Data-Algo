@@ -81,4 +81,6 @@
 
 ## Resources
 
-* [Java - Data & Algo](resources/java-data-and-algo.md)
+* [Java - Data & Algo](resources/java-data-and-algo/README.md)
+  * [CSS 11B](resources/java-data-and-algo/css-11b/README.md)
+    * [Playlists](resources/java-data-and-algo/css-11b/playlists.md)
