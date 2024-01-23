@@ -57,6 +57,15 @@
   * [Implementations](data-structures/graphs/implementations/README.md)
     * [Adjacency Matrix](data-structures/graphs/implementations/adjacency-matrix.md)
     * [Adjacent List](data-structures/graphs/implementations/adjacent-list.md)
+* [Hash Tables](data-structures/hash-tables/README.md)
+  * [Collisions](data-structures/hash-tables/collisions/README.md)
+    * [Open Addressing](data-structures/hash-tables/collisions/open-addressing.md)
+    * [Separate Chaining](data-structures/hash-tables/collisions/separate-chaining.md)
+  * [Java](data-structures/hash-tables/java/README.md)
+    * [hashcode()](data-structures/hash-tables/java/hashcode.md)
+    * [equals(...)](data-structures/hash-tables/java/equals-....md)
+    * [HashSet](data-structures/hash-tables/java/hashset.md)
+    * [HashMap](data-structures/hash-tables/java/hashmap.md)
 
 ## Algorithims
 
@@ -69,7 +78,6 @@
   * [Shell Sort](algorithims/sorting/shell-sort.md)
   * [Merge Sort](algorithims/sorting/merge-sort.md)
   * [Quick Sort](algorithims/sorting/quick-sort.md)
-  * [Untitled](algorithims/sorting/untitled.md)
 
 ## Interviews
 
