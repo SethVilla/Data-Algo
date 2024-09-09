@@ -78,6 +78,8 @@
   * [Shell Sort](algorithims/sorting/shell-sort.md)
   * [Merge Sort](algorithims/sorting/merge-sort.md)
   * [Quick Sort](algorithims/sorting/quick-sort.md)
+  * [Counting Sort](algorithims/sorting/counting-sort.md)
+  * [BinSort](algorithims/sorting/binsort.md)
 
 ## Interviews
 
@@ -112,3 +114,4 @@
     * [Bubble Sort](resources/cs-545/sorting/bubble-sort.md)
     * [Insertion sort](resources/cs-545/sorting/insertion-sort.md)
     * [Merge Sort](resources/cs-545/sorting/merge-sort.md)
+    * [Quick Sort](resources/cs-545/sorting/quick-sort.md)
