@@ -117,6 +117,8 @@
     * [Quick Sort](resources/cs-545/sorting/quick-sort.md)
 * [CS 601](resources/cs-601/README.md)
   * [Greedy Algorithims](resources/cs-601/greedy-algorithims/README.md)
+    * [Interval Scheduling](resources/cs-601/greedy-algorithims/interval-scheduling.md)
+    * [Minimize Lateness](resources/cs-601/greedy-algorithims/minimize-lateness.md)
     * [Dijkstra's Algorithm](resources/cs-601/greedy-algorithims/dijkstras-algorithm.md)
     * [MST Problem](resources/cs-601/greedy-algorithims/mst-problem/README.md)
       * [Kruskal's Algorithm](resources/cs-601/greedy-algorithims/mst-problem/kruskals-algorithm.md)
